@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I’m a developer who loves building cool things, 
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, TypeScript
-- **Frameworks:** React, Node.js, Express
+- **Languages:** C/C++, Java, Python, JavaScript, TypeScript
+- **Frameworks:** ReactJs, SpringBoot, Node.js, Express
 - **Cloud:** AWS, Azure
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Databases:** MongoDB, MySQL
 - **Version Control:** Git & GitHub
-- **Testing:** Jest, Mocha
+- **Testing:** Postman, Jira
 - **CI/CD:** GitHub Actions
 - **More:** Agile development, code reviews, automation
 
