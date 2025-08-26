@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I’m a developer who loves building cool things, 
 - **Version Control:** Git & GitHub
 - **Testing:** Postman, Jira
 - **CI/CD:** GitHub Actions
+- **Developer Tools:** Git, GitLab, VS Code, IntelliJ IDEA, MySQL Workbench, MongoDB Compass
 - **More:** Agile development, code reviews, automation
 
 ---
