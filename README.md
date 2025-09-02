@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a developer who loves building cool things, 
 ## 🛠️ Skills
 
 - **Languages:** C/C++, Java, Python, JavaScript, TypeScript
-- **Frameworks:** ReactJs, SpringBoot, Node.js, Express
+- **Frameworks:** ReactJs, SpringBoot, Node.js.
 - **Cloud:** AWS, Azure
 - **Databases:** MongoDB, MySQL
 - **Version Control:** Git & GitHub
